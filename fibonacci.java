@@ -24,8 +24,6 @@ public class tth {
 				break;
 			}
 			i++;
-			
-			System.out.println(i);
 		}
 	System.out.println(sum);
 		
