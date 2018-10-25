@@ -1,7 +1,7 @@
 public class primefactor {
 
 	public static void main(String[] args) {
-		long n=600851475143;long i;long j;
+		long n=600851475143l;long i;long j;
 		boolean bool=true;
 		for( i=2;i<=n;i++)
 		{
